@@ -1,16 +1,9 @@
-# Personal Blog
+### Hello there 👋 I'm Lucas.<br>
 
-## 🧞 Commands
+#### A Front-End Developer by day ☼ and a jack-of-all-trades by night. 🌃
 
-All commands are run from the root of the project, from a terminal:
+Full-Stack Developer at [ISS World](https://www.issworld.com/pt-pt);<br>
+Got my own gazillion projects that I never find the time for [UMBRA-SH](https://umbra.sh);<br>
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+- ⚙️ I use daily: `.tsx`, `.ts`, `.jsx`, `.css`, `.scss`, `.yml`, `.html`, `.vue`, `.astro`
+- 💬 `ping` me about **javascript/typescript**, **UI development**, **tooling**, **living with legacy projects**, **dev culture**
